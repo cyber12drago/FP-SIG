@@ -1,0 +1,101 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Terminal Ranggunan",
+        "Lokasi": "Jakarta",
+        "Image": "https://cdn-2.tstatic.net/wartakota/foto/bank/images/terminal-bus-ragunan.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          106.821286,
+          -6.298667
+        ],
+        "type": "Point"
+      },
+      "id": "1296a44e53e671f517b7b8c5dcadabb4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": " Terminal Bis Penggaron",
+        "Lokasi": "Semarang",
+        "Image": "https://cdn.antaranews.com/cache/800x533/2017/11/20171106terboyo.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.493497,
+          -7.017608
+        ],
+        "type": "Point"
+      },
+      "id": "62d916a3f7dac4261dbedb17b8fa2b2a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Terminal Tirtonadi",
+        "Lokasi": "Solo",
+        "Image": "https://pariwisatasolo.surakarta.go.id/wp-content/uploads/2020/07/terminal-tirtonadi-1024x720.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          110.82043,
+          -7.551463
+        ],
+        "type": "Point"
+      },
+      "id": "b8d1f1460c76be1abc2a20bf3120d217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Terminal Arjosari",
+        "Lokasi": "Malang",
+        "Image": "https://i1.wp.com/penginapan.net/wp-content/uploads/Terminal-arjosari.jpg?resize=610%2C381&ssl=1"
+      },
+      "geometry": {
+        "coordinates": [
+          112.658357,
+          -7.934423
+        ],
+        "type": "Point"
+      },
+      "id": "c3878e23723493002c54a4d8329b9159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": "Terminal Leuwipanjang",
+        "Lokasi": "Bandung",
+        "Image": "https://cdn-2.tstatic.net/jabar/foto/bank/images/terminal-leuwi-panjang-bandung-pada-h-3-lebaran.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          107.594057,
+          -6.945948
+        ],
+        "type": "Point"
+      },
+      "id": "d2771a043587135cce5ff978d2c3455f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nama": " Terminal Tambak Oso Wilangon",
+        "Lokasi": "Surabaya",
+        "Image": "https://cdn-radar.jawapos.com/uploads/radarsurabaya/news/2020/04/17/penumpang-sepi-terminal-tow-hanya-layani-dua-trayek-bus_m_189404.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          112.6526,
+          -7.2111
+        ],
+        "type": "Point"
+      },
+      "id": "neighborhood.8354598436692960"
+    }
+  ],
+  "type": "FeatureCollection"
+}
